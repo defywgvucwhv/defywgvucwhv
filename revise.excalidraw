@@ -1,0 +1,48 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "LvaP4JGMaYIYD8aMYu6-l",
+      "type": "text",
+      "x": 353,
+      "y": 122,
+      "width": 300,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 648704031,
+      "version": 66,
+      "versionNonce": 964201265,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1695870025431,
+      "link": null,
+      "locked": false,
+      "text": "很神奇的课程 非常要命 下次还学\n      gezhen",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 43,
+      "containerId": null,
+      "originalText": "很神奇的课程 非常要命 下次还学\n      gezhen",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
